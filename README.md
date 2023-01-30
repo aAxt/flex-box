@@ -1,2 +1,8 @@
 # flex-box
-This is  flex-box project.
+This is my first flex-box project.
+Demonstrated skill:
+
+-HTML
+-CSS
+    -flexbox
+
